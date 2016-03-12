@@ -1,5 +1,10 @@
 # ElfParse
 
+开始要学习Android OAT文件格式，之前的代码太混乱了，打算重构一下，之后再重构一下另一个DexParse项目的代码也一起加进来
+
+ElfParse2+OatParse:
+OAT文件解析
+
 ElfParse:
 对.so文件进行解析，目的用于so文件加密以及修复。
 
