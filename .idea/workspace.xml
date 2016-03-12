@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f11966d7-08ca-43ce-b972-5571664c05ab" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ElfParse2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OatParse.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Util.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f11966d7-08ca-43ce-b972-5571664c05ab" name="Default" comment="" />
     <ignored path="ElfParse.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,8 +44,8 @@
       <file leaf-file-name="ElfParse2.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ElfParse2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5308642">
-              <caret line="319" column="25" selection-start-line="319" selection-start-column="25" selection-end-line="319" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.4638448">
+              <caret line="315" column="26" selection-start-line="315" selection-start-column="26" selection-end-line="315" selection-end-column="26" />
               <folding>
                 <element signature="e#19#32#0" expanded="true" />
               </folding>
@@ -765,8 +760,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ElfParse2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5308642">
-          <caret line="319" column="25" selection-start-line="319" selection-start-column="25" selection-end-line="319" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.4638448">
+          <caret line="315" column="26" selection-start-line="315" selection-start-column="26" selection-end-line="315" selection-end-column="26" />
           <folding>
             <element signature="e#19#32#0" expanded="true" />
           </folding>
