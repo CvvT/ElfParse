@@ -6,7 +6,7 @@ ElfParse2+OatParse:
 OAT文件解析
 
 ElfParse:
-对.so文件进行解析，目的用于so文件加密以及修复。
+对.so文件进行解析，目的用于so文件加密以及修复。提供基于链接视图和执行视图两种解析方式
 
 具体使用
 Encrypt：
